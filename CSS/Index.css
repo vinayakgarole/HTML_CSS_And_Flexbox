@@ -1,0 +1,38 @@
+html{
+    font-size: 14px;
+    font-family: 'open Sans',sans-serif;
+  }
+
+  html{
+    background-color: blue;
+  }
+
+  body{
+    width: 600px;
+    margin:0 auto;
+    background-color: darkgoldenrod;
+    padding: 5px 20px 20px 20px;
+  }
+
+  h1{
+    font-size: 50px;
+    text-align: center;
+  }
+
+  h1{
+    margin: 0;
+    padding: 20px 0;
+    color: darkblue;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img{
+    display: block;
+    margin: 0 auto;
+  }
+  
+  p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
